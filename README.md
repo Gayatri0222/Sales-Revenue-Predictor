@@ -25,7 +25,7 @@ This project predicts sales revenue using a **Linear Regression model** based on
 ### 🚀 Try the App
 
 👉 **Click here to open the app** on Streamlit Cloud:  
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/USERNAME/REPO-NAME/main/app.py)
+[![Open in Streamlit](https://sales-revenue-predictor-gyuskitc9actqfv8cyfyuq.streamlit.app/)
 
 ---
 
