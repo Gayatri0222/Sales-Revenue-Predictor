@@ -2,12 +2,16 @@
 
 This project predicts sales revenue using a **Linear Regression model** based on product, store, and marketing features.
 
+---
+
 ### 🔧 Tech Stack
 - Python
 - Scikit-learn
 - Streamlit
 - Pandas, NumPy
 - Joblib
+
+---
 
 ### 📁 Features Used
 - Store ID
@@ -24,13 +28,16 @@ This project predicts sales revenue using a **Linear Regression model** based on
 
 ### 🚀 Try the App
 
-👉 **Click here to open the app** on Streamlit Cloud:  
-[![Open in Streamlit](https://sales-revenue-predictor-gyuskitc9actqfv8cyfyuq.streamlit.app/)
+👉 **Click here to open the app on Streamlit Cloud**:  
+🔗 [Open App](https://sales-revenue-predictor-gyuskitc9actqfv8cyfyuq.streamlit.app/)
 
 ---
 
 ### 📦 Installation (For Local Use)
 
 ```bash
+# Install dependencies
 pip install -r requirements.txt
+
+# Run the app
 streamlit run app.py
